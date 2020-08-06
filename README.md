@@ -1,4 +1,3 @@
-```markdown
 <img width="auto" src="https://avatars1.githubusercontent.com/u/22125059?s=460&u=0d07ae95199ee4514dc998098b44e344209aaebb&v=4">
 
 # Ivanilton Bezerra
@@ -14,4 +13,3 @@ Sou Front-End Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-nitinhosilva1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nitinhosilva1996@gmail.com)](mailto:nitinhosilva1996@gmail.com)
 
-```
