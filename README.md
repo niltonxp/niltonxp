@@ -1,5 +1,4 @@
 
-# Ivanilton Bezerra
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou Front-End Developer :computer:
