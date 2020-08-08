@@ -1,7 +1,6 @@
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou Front-End Developer :computer:
+:computer: Front-End Developer apaixonado por resolver problemas utilizando a programação.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end!
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, JS e ReactJS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, esportes e seriados no Netflix.
