@@ -8,14 +8,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-nitinhosilva1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nitinhosilva1996@gmail.com)](mailto:nitinhosilva1996@gmail.com)
 
 <p align="center" width="700px">
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="left"
-      height="145px" 
-      width="350px"              
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonxp&layout=compact"
-    />
-  </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="left"
