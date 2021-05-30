@@ -5,7 +5,7 @@
 <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, JS e ReactJS.
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, esportes e seriados no Netflix.
 
-![](https://raw.githubusercontent.com/niltonxp/niltonxp/output/github-contribution-grid-snake.gif)
+![snake animation](https://raw.githubusercontent.com/niltonxp/niltonxp/output/github-contribution-grid-snake.svg)
 
 ### Let's connect! 👋
 
